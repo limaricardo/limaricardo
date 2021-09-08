@@ -24,9 +24,9 @@ I'm working on:
 <code><img width="14%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img width="14%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <br />
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img width="14%" src="https://seeklogo.com/images/P/postgre-sql-logo-600AD1A66B-seeklogo.com.png"></code>
-<code><img width="14%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png"></code>
+<code><img width="14%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img width="14%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="14%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <br />
 <br />
 <br />
