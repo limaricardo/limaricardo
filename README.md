@@ -26,6 +26,7 @@ I'm working on:
 <br />
 <code><img width="14%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img width="14%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="14%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="14%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <br />
 <br />
