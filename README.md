@@ -21,7 +21,6 @@ I'm working on:
 <img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limaricardo&layout=compact&theme=dark&hide_border=true&cache_seconds=2000" />
 <h3>🛠 &nbsp; Knowledge</h3>
 <code><img width="14%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code>
 <code><img width="14%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img width="14%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <br />
@@ -29,6 +28,7 @@ I'm working on:
 <code><img width="14%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img width="14%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="14%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code>
 <br />
 <br />
 <br />
