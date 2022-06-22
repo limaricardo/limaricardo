@@ -33,7 +33,7 @@
 
 ###
 
-<h2 align="left">You can find me here</h2>
+<h2 align="left">You can find me here:</h2>
 
 ###
 
