@@ -1,34 +1,52 @@
-### Hello everyone !! 
+<h2 align="left">Hello everyone !!</h2>
 
-<p>
-<a href="https://www.linkedin.com/in/ricardo-pereira-274b22aa/" rel="nofollow"><img src="https://camo.githubusercontent.com/6dc9828248fb64760c234f5b24c275a4912e9bb546c281d0c8e67cecb3381669/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+###
 
-<a href="mailto:limaricardop@gmail.com">
-<img     src="https://camo.githubusercontent.com/4162fc627b288fde4095e803eab5cd03f2cef85ada617eefc497490b0e7a16a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456d61696c2d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Mail" data-canonical-src="https://img.shields.io/badge/-Email-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width:100%;">
-</a>
-</p>
+<p align="left">Welcome to my Github page, my name is Ricardo Lima and I live in Brazil.  I like spending my time facing new challenges and learning new subjects. I'm graduated on Mechanical Engineering and I've been studying Computer Science and Full-Stack development.</p>
 
-Welcome to my Github page, my name is Ricardo Lima. I'm from Brazil and I was born and raised in Volta Redonda, a small town in Rio de Janeiro. I like spending my time facing new challenges and learning new subjects. I'm graduated on Mechanical engineering and I've been studying computer science and development.
+###
 
-I'm working on:
-* Learning Computer Science
-* Learning ReactJS
-* Learning UI and UX experience 
-* Learning Blockchain 
+<h2 align="left">I'm working on:</h2>
 
-🔭 I'm working on personal projects to practice ReactJs, home straight of CS50 Harvard course and starting a DeFi course at Nicosia University.
+###
 
-<img height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limaricardo&layout=compact&theme=dark&hide_border=true&cache_seconds=2000" />
-<h3>🛠 &nbsp; Knowledge</h3>
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<br />
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code>
-<br />
-<br />
-<br />
+<h4 align="left">At the moment I'm doing a personal project with ReactJS and Node.js where I post the evolution of it on Youtube.</h4>
+
+###
+
+<h2 align="left">I code with:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="50" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="50" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="50" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="50" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="50" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="50" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="50" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="50" alt="flask logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ricardo-pereira-274b22aa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCk_4NkFc5jj5qCoxAskRahg" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=limaricardo" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=limaricardo" height="150" alt="languages graph"  />
+</div>
+
+###
