@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">At the moment I'm doing a personal project with ReactJS and Node.js where I post the evolution of it on Youtube.</h4>
+<h4 align="left">At the moment I'm working as a Professor at Blue EdTech and Front-end Developer at Wexpert Consulting.</h4>
 
 ###
 
