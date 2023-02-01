@@ -7,8 +7,8 @@ Welcome to my Github page, my name is Ricardo Lima and I live in Brazil. I like 
 ## 👯 Communities
 * Front End Volunteer Mentor at [SouJunior](https://github.com/SouJunior).
 * Volunteer Mentor at [BlueEdTech](https://blueedtech.com.br/).
-* Coding Dojo, helping Juniors to create a study routine. - [CodingDojo](https://www.youtube.com/@codingdojo8434)
-* Personal channel, sharing knowledge as I evolve mine. - [Channel](https://www.youtube.com/@ricardopereira8564)
+* Coding Dojo, helping Juniors to create a study routine - [CodingDojo](https://www.youtube.com/@codingdojo8434).
+* Personal channel, sharing knowledge as I evolve mine - [Channel](https://www.youtube.com/@ricardopereira8564).
 
 ## ⚡ Technologies
 Talk to me about:
