@@ -39,9 +39,7 @@ Talk to me about:
   </a>
 </div>
 
-###
-
-###
+<p>&nbsp;</p>
 
 ![Ricardo github stats](https://github-readme-stats.vercel.app/api?username=limaricardo&hide=["issues"]&show_icons=true)
 
