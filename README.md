@@ -18,6 +18,10 @@ Talk to me about:
 - Mobile application development using **React Native (studying)**.
 - Solving Data structure and algorithm questions in **Javascript and Python**.
 
+## 💼 I'm working as:
+* Full Stack assistant professor at Blue EdTech
+* Front-end Developer at Wexpert Consulting
+
 ## 🌎 You can find me here
 
 <div align="left">
@@ -30,10 +34,17 @@ Talk to me about:
   <a href="https://discord.gg/cVe6eFAUdS" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+  <a href="https://ricardo-lima.vercel.app/" target="_blank">
+    <img src="https://media.discordapp.net/attachments/723634067857473606/1070394094884507789/logo.PNG" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=limaricardo&hide=["issues"]&show_icons=true)
+
+
+
+
+![Ricardo github stats](https://github-readme-stats.vercel.app/api?username=limaricardo&hide=["issues"]&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=limaricardo.limaricardo)
 
