@@ -18,9 +18,7 @@ Talk to me about:
 - Mobile application development using **React Native (studying)**.
 - Solving Data structure and algorithm questions in **Javascript and Python**.
 
-<h2 align="left">You can find me here</h2>
-
-###
+## 🌎 You can find me here
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ricardo-pereira-lima" target="_blank">
@@ -34,7 +32,6 @@ Talk to me about:
   </a>
 </div>
 
-###
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=limaricardo&hide=["issues"]&show_icons=true)
 
