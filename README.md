@@ -40,7 +40,6 @@ Welcome to my Github page, my name is Ricardo Lima and I live in Brazil. I like 
 
 <p>&nbsp;</p>
 
-![Ricardo github stats](https://github-readme-stats.vercel.app/api?username=limaricardo&hide=["issues"]&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=limaricardo.limaricardo)
 
