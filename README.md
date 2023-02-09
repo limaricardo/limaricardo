@@ -39,7 +39,3 @@ Welcome to my Github page, my name is Ricardo Lima and I live in Brazil. I like 
 </div>
 
 <p>&nbsp;</p>
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=limaricardo.limaricardo)
-
