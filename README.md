@@ -10,9 +10,10 @@ Welcome to my Github page, my name is Ricardo Lima and I live in Brazil. I like 
 * Personal channel, sharing knowledge as I evolve mine - [Channel](https://www.youtube.com/@ricardopereira8564).
 
 ## ⚡ Technologies
-- Front-end development using **HTML5, CSS3, Typescript, React, Sass, Styled Components**.
-- Backend development using **Node.js, Nest.js, Python(Flask), C#(studying)**.
-- Robust full-stack system design implementation.
+- Front-end development using **HTML5, CSS3, Typescript, React, Angular, Sass, Styled Components**.
+- Backend development using **Node.js, Nest.js, Python(Flask), C#.
+- Experience with SQL< PostgreSQL, MongoDB, MicrosoftSQL server.
+- Robust full stack system design implementation.
 - Mobile application development using **React Native (studying)**.
 - Solving Data structure and algorithm questions in **Javascript and Python**.
 
