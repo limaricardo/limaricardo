@@ -5,7 +5,7 @@
 Welcome to my Github page, my name is Ricardo Lima and I live in Brazil. I like spending my time facing new challenges and learning new subjects. I'm graduated on Mechanical Engineering and I'm finishing my post graduation in systems analysis and development.
 
 ## 👯 Communities
-* Front End Volunteer Head at [SouJunior](https://github.com/SouJunior).
+* Volunteer Head Front End at [SouJunior](https://github.com/SouJunior).
 * Coding Dojo, helping Juniors to create a study routine - [CodingDojo](https://www.youtube.com/@codingdojo8434).
 * Personal channel, sharing knowledge as I evolve mine - [Channel](https://www.youtube.com/@ricardopereira8564).
 
