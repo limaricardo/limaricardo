@@ -5,8 +5,7 @@
 Welcome to my Github page, my name is Ricardo Lima and I live in Brazil. I like spending my time facing new challenges and learning new subjects. I'm graduated on Mechanical Engineering and I'm finishing my post graduation in systems analysis and development.
 
 ## 👯 Communities
-* Front End Volunteer Mentor at [SouJunior](https://github.com/SouJunior).
-* Volunteer Mentor at [BlueEdTech](https://blueedtech.com.br/).
+* Front End Volunteer Head at [SouJunior](https://github.com/SouJunior).
 * Coding Dojo, helping Juniors to create a study routine - [CodingDojo](https://www.youtube.com/@codingdojo8434).
 * Personal channel, sharing knowledge as I evolve mine - [Channel](https://www.youtube.com/@ricardopereira8564).
 
@@ -18,9 +17,9 @@ Welcome to my Github page, my name is Ricardo Lima and I live in Brazil. I like 
 - Solving Data structure and algorithm questions in **Javascript and Python**.
 
 ## 💼 I'm working as:
-* Full Stack assistant professor at Blue EdTech
-* Front-end Developer at Wexpert Consulting
-
+* Full Stack Developer at Agape Consultoria - PHP/CodeIgniter/SQL/Javascript
+* Full Stack Developer at Tree Inova - Angular/C#/React/SQL
+  
 ## 🌎 You can find me here
 
 <div align="left">
