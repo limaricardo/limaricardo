@@ -1,7 +1,5 @@
 <h2>Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
-
 I'm Ricardo Lima, a Brazilian Full Stack Developer passionate about building scalable products, solving complex problems, and continuously learning through real-world challenges.
 
 I hold a degree in Mechanical Engineering and a postgraduate specialization in Systems Analysis and Development. My background combines analytical thinking, product mindset, and hands-on software development across web applications, business systems, and modern front-end experiences.
@@ -56,9 +54,6 @@ I hold a degree in Mechanical Engineering and a postgraduate specialization in S
   </a>
   <a href="https://discord.gg/cVe6eFAUdS" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <a href="https://ricardo-lima.vercel.app/" target="_blank">
-    <img src="https://media.discordapp.net/attachments/723634067857473606/1070394094884507789/logo.PNG" width="52" height="40" alt="portfolio logo" />
   </a>
 </div>
 
